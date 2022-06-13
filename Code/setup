@@ -1,0 +1,8 @@
+
+export Server=cygong.database.windows.net
+export DBName=414au
+export UserID=ChengyangGong
+export Password=Avd-19970825
+
+//此处临时设置，可以在.bash_profile中永久设置
+create_caregiver UserID Password
